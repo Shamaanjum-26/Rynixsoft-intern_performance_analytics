@@ -14,16 +14,12 @@ This project analyzes intern performance using a structured dataset to derive me
 * Prepared preprocessing documentation
 
 ---
-## 📊 Sprint 2 – Exploratory Data Analysis (EDA)
+## Sprint 2 – Exploratory Data Analysis (EDA)
 
 * Performed exploratory data analysis on the dataset
 * Analyzed numerical data using summary statistics
 * Explored categorical columns using value counts
 * Checked data distribution and basic patterns
-* Created new columns:
-
-  * Task Completion %
-  * Performance Level (High / Medium / Low)
 * Prepared the dataset for visualization in Power BI
 
 
