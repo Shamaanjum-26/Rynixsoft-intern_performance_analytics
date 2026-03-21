@@ -34,6 +34,7 @@ This project analyzes intern performance using a structured dataset to derive me
 * `Data_cleaning.ipynb` → Data preprocessing
 * `EDA_Preprocessing.ipynb` → Exploratory Data Analysis (EDA)
 * `Data Preprocessing Documentation.pdf` → Preprocessing documentation
+* Internship Analysis Dashboard → Visualization using Power BI
 
 
 
@@ -45,6 +46,7 @@ This project analyzes intern performance using a structured dataset to derive me
 * Pandas
 * NumPy
 * Google Colab
+* Power BI
 
 
 
