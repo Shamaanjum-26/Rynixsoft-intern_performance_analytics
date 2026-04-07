@@ -30,21 +30,21 @@ Intern-Performance-Analytics/
 │
 ├── Sprint1_Data/
 │   ├── data_cleaning.ipynb
-│   ├── data_preprocessing_steps.md
+│   ├── sprint 1-Documentation.docx
 │
 ├── Sprint2_EDA/
 │   ├── eda_analysis.ipynb
-│   ├── key_insights.md
+│   ├── Sprint-2_Review Presentation.pptx
 │
 ├── Sprint3_Dashboard/
 │   ├── intern_dashboard.pbix
-│   ├── dashboard_preview.png
-│   ├── kpi_definitions.md
+│   ├── Intern_Analytics_Dashboard.pdf
+│   ├── Sprint-3 Documentation.pdf
 │
 ├── Flask_App/
 │   ├── app.py
-│   ├── templates/
-│   ├── static/
+│   ├── intern_final_dataset.csv
+│   ├── import_excel.py
 │
 ├── Dataset/
 │   ├── intern_dataset_final.csv
